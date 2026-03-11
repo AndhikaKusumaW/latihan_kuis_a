@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:latihan_kuis_a/screen/home_page.dart';
 import 'package:latihan_kuis_a/screen/movie_list_page.dart';
 
 class LoginPage extends StatefulWidget {
